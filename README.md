@@ -4,13 +4,17 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
 
+</br>
+
 ## Overview
 An interactive dashboard to represent some analysis of "Telco customer churn" data and the reasons that made customers churn using Microsoft Power BI.
 
+</br>
 
 ##  Architecture 
 ![image](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/assets/49934575/d4c9d38d-2f6c-43e2-81ca-3b5dc64a533b)
 
+</br>
 
 ## About Dataset:
 
@@ -38,6 +42,8 @@ An interactive dashboard to represent some analysis of "Telco customer churn" da
 
 [Telco customer churn (11.1.3+)](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113)
 
+</br>
+
 ## Data Modeling:
 
 A star schema model is built for a faster-analyzing process.
@@ -52,6 +58,7 @@ The Telco Customer Churn Star Schema Model contains:
 
 ![DataModel](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/assets/49934575/06359047-5db6-474e-80ab-e2126362375f)
 
+</br>
 
 ## Dashboard Preview :
 
@@ -59,22 +66,37 @@ The dashboard consists of multiple pages, and each page provides an analysis of 
 
 A filter that filters the whole dashboard based on the customer status is used for a better understanding of the customers' behavior and analyzes each and its results separately.
 
-The dashboard contains:
 
-- **Home Page** which provides a summary description of the data, KPIs overview, and navigations to dashboard parts.
+
+### Home Page </p>
+which provides a summary description of the data, KPIs overview, and navigations to dashboard parts.
 ![1](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/assets/49934575/cae8d86e-f1f1-4b56-9313-ea44748f4e4a)
 
-- **General Insights Page** which provides a general analysis of the customers, their behavior, and the churn reasons.
+</br>
+
+### General Insights Page </p>
+which provides a general analysis of the customers, their behavior, and the churn reasons.
 ![2](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/assets/49934575/585c284a-9e24-44e6-8abc-c9994eab8acf)
 
-- **Customer Demographics Page** which analyzes the customers' demographics based on gender and age.
+</br>
+
+### Customer Demographics Page </p> 
+which analyzes the customers' demographics based on gender and age.
 ![3](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/assets/49934575/93dcb0df-71e3-42b2-b508-24e45c633896)
 
-- **Service and Contract Page** which analyze the services that customers subscribed to, services types, contract types, and all related topics.
+</br>
+
+### Service and Contract Page </p>
+which analyze the services that customers subscribed to, services types, contract types, and all related topics.
 ![4](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/assets/49934575/2d62738e-b4d2-4429-a87d-1f1d821215a0)
 
-- **Churn and Revenu Page** which analyzes the revenue from each customer type, customers' states at the end of the year, churned customers, and their reasons to churn.
+</br>
+
+### Churn and Revenu Page</p>
+which analyzes the revenue from each customer type, customers' states at the end of the year, churned customers, and their reasons to churn.
 ![5](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/assets/49934575/1d9cf769-23a7-4689-b69a-665f45908a7f)
+
+</br>
 
 ## Resources
 You can access all stages from designing background to calculation details of the prepared report [here](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/tree/main/Resources).
